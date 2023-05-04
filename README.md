@@ -38,7 +38,7 @@ Technologies Used
 Languages used Java. I have used IntelliJ for creating the project
 
 Support and contact details
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: pookieproton@mail.com to make a contribution to the code or for any assistance on the app/project.
+If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vivyan3@gmail.com to make a contribution to the code or for any assistance on the app/project.
 
 
 To be able to view the project click on 
